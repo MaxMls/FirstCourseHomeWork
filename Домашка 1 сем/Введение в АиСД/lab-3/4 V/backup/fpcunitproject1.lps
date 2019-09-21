@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="fpcunitproject1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="testcase1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TestCase1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="88"/>
+        <CursorPos X="9" Y="95"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mathParser.pas"/>
+        <UnitName Value="MathParser"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="49"/>
+        <CursorPos Y="88"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="testcase1.pas"/>
+        <Caret Line="15" Column="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="testcase1.pas"/>
+        <Caret Line="96" Column="9" TopLine="88"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="323" TopLine="296"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="324" TopLine="296"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="325" TopLine="296"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="97" TopLine="77"/>
+      </Position6>
+      <Position7>
+        <Filename Value="testcase1.pas"/>
+        <Caret Line="96" TopLine="88"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="312" TopLine="292"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="313" TopLine="292"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="314" TopLine="292"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="86" TopLine="66"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="316" TopLine="296"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="317" TopLine="296"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="318" TopLine="296"/>
+      </Position14>
+      <Position15>
+        <Filename Value="testcase1.pas"/>
+        <Caret Line="97" TopLine="88"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="312" TopLine="296"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="313" TopLine="296"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="314" TopLine="296"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="88" TopLine="66"/>
+      </Position19>
+      <Position20>
+        <Filename Value="testcase1.pas"/>
+        <Caret Line="96" TopLine="88"/>
+      </Position20>
+      <Position21>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="88" TopLine="66"/>
+      </Position21>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

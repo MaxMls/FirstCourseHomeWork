@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1295019307"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Google Диск\Домашка\Практика по АиСД (Б8103, осень 2018)\R. Разноцветные кубики\lib\x86_64-win64&quot; &quot;-FuD:\Google Диск\Домашка\Практика по АиСД (Б8103, осень 2018)\R. Разноцветные кубики\&quot; &quot;-FUD:\Google Диск\Домашка\Практика по АиСД (Б8103, осень 2018)\R. Разноцветные кубики\lib\x86_64-win64\&quot; &quot;-FED:\Google Диск\Домашка\Практика по АиСД (Б8103, осень 2018)\R. Разноцветные кубики\&quot; &quot;-oD:\Google Диск\Домашка\Практика по АиСД (Б8103, осень 2018)\R. Разноцветные кубики\cu.exe&quot; cu.lpr"/>
+</CONFIG>

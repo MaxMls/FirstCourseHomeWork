@@ -1,0 +1,5 @@
+program oig;
+
+begin
+end.
+

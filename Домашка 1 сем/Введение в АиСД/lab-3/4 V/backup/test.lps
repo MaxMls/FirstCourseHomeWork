@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="test.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mathParser.pas"/>
+        <UnitName Value="MathParser"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="277"/>
+        <CursorPos Y="316"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="test.lpr"/>
+        <Caret Line="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="312" TopLine="292"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="97" TopLine="77"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mathParser.pas"/>
+        <Caret Line="316" TopLine="296"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test.lpr"/>
+        <Line Value="8"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
